@@ -286,5 +286,5 @@ This project is for educational and portfolio purposes.
 ---
 
 <p align="center">
-  Built with ♠ by <strong>Kartikeya</strong>
+  Built by <strong>Kartikeya</strong>
 </p>
